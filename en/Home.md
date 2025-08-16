@@ -15,10 +15,10 @@ dateCreated: 2022-05-11T10:54:00.186Z
 
 Deepin is a Linux distribution dedicated to providing beautiful, easy to use, secure and stable services to users around the world, and has always been the highest ranked Linux distribution developed by a Chinese team .
 
-- [deepin linux *Introduction to the deepin linux.*](/About_Deepin/Deepin_Profile)
-- [Mailstone *history of Deepin linux distribution.*](/About_Deepin/Deepin_Profile)
-- [Key features *differences between deepin and other distributions.*](/About_Deepin/Deepin_Profile)
-- [Offical applications *Deepin-moive deepin-paint deepin-terminal.*](/About_Deepin/Deepin_Profile)
+- [Deepin Linux *Introduction to Deepin linux.*](/About_Deepin/Deepin_Profile)
+- [Milestones *History of the Deepin linux distribution.*](/About_Deepin/Deepin_Profile)
+- [Key features *Differences between Deepin and other distributions.*](/About_Deepin/Deepin_Profile)
+- [Official Applications *Deepin-Movie, Deepin-Paint, Deepin-Terminal, etc.*](/About_Deepin/Deepin_Profile)
 - [Source Code *https://github.com/linuxdeepin.*](/About_Deepin/Deepin_Profile)
 - [Image source list *https://www.deepin.org/zh/mirrors/releases*](/About_Deepin/Deepin_Profile)
 {.links-list}
@@ -34,9 +34,9 @@ Deepin is a Linux distribution dedicated to providing beautiful, easy to use, se
 
 # Wiki Interaction
 
-- [Browsing *How to find the information of your need.*](/about_deepin/deepin_wiki)
-- [Editing *How to edit the information of your interesting.*](/about_deepin/edit_help)
-- [Thanks *thank fot the contributor.*](/about_deepin/deepin_wiki)
+- [Browsing *How to find the information you need.*](/about_deepin/deepin_wiki)
+- [Editing *How to make changes you're interested in.*](/about_deepin/edit_help)
+- [Thanks *Appreciations to our contributors.*](/about_deepin/deepin_wiki)
 {.links-list}
 
 # Getting Started
